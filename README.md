@@ -3,11 +3,11 @@ A teaching version of [assaytools](https://github.com/choderalab/assaytools) for
 
 Two ipython notebooks:
  - Simulating Fake Data
- - Analyzing Real Data
+ - Analyzing Real Data (depends on assaytools)
 
 Two real data .xml files.
 
-Dependencies:
+Dependencies for Simulating Fake Data:
  - matplotlib
  - numpy
  - scipy
