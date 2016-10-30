@@ -1,6 +1,9 @@
 # mozfest-assaytools
 A teaching version of [assaytools](https://github.com/choderalab/assaytools) for Mozilla Festival.
 
+Slides:
+ - `MozFest2016_slides.pdf`
+
 Two ipython notebooks:
  - `Simulating a Binding Dataset.ipynb`
  - `Analyzing a Real Binding Dataset.ipynb` (depends on assaytools)
